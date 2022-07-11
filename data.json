@@ -1,18 +1,26 @@
 {
     "name": "Prince Sanjivy",
     "tagline": "Software Engineer",
-    "links": [
+    "links":[
         {
             "link": "https://instagram.com",
             "icon": "I"
         },
         {
             "link": "https://google.com",
-            "icon": "G"
+            "icon": "Q"
         },
         {
-            "link": "https://quora.com",
-            "icon": "Q"
+            "link": "https://google.com",
+            "icon": "M"
+        },
+        {
+            "link": "https://youtube.com",
+            "icon": "O"
+        },
+        {
+            "link": "https://google.com",
+            "icon": "M"
         }
     ]
 }

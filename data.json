@@ -1,5 +1,5 @@
 {
-    "name": "Prince Sanjivy",
+    "name": "Sanjivy",
     "tagline": "Software Engineer",
     "links":[
         {
@@ -13,10 +13,6 @@
         {
             "link": "https://google.com",
             "icon": "M"
-        },
-        {
-            "link": "https://youtube.com",
-            "icon": "O"
         }
     ]
 }
